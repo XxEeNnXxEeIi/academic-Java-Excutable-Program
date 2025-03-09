@@ -1,4 +1,4 @@
-# Point of Sale (POS) Program / โปรแกรมขายสินค้า (POS) 🛍️
+# Point of Sale (POS) / โปรแกรมขายหน้าร้าน 🛍️
 
 ## Overview | เกี่ยวกับโปรเจค
 This is a simple **Point of Sale (POS)** program developed using **Java** and **Java Swing**. It is a basic desktop application designed to simulate sales transactions, including product selection, calculating totals, and generating receipts. The program does not require a database or internet connection and works entirely locally.  
@@ -29,6 +29,13 @@ The program consists of the following key components:
 
 ## 🚀 How to Run the Project | วิธีการรันโปรเจค
 
-### 1. Clone the repository:  
+1. **Install Java SDK**:  
+   First, download and install the Java Software Development Kit (SDK).  
+   You can get the latest version from the official [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or use [OpenJDK](https://openjdk.java.net/).
+
+2. **Run the .jar File**:  
+   Once the Java SDK is installed, navigate to the directory where the `.jar` file of the POS program is located.  
+   Open your terminal/command prompt and run the following command:  
    ```bash
-   git clone https://github.com/yourusername/pos-program.git
+   java -jar your-pos-program.jar
+
