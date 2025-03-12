@@ -18,13 +18,11 @@ The program consists of the following key components:
 ### 2️⃣ Features | ฟีเจอร์
 - 🛒 **Product Management**: Allows the user to add products to the cart.
 - 💲 **Total Calculation**: Automatically calculates the total price, including taxes and discounts.
-- 🧾 **Receipt Generation**: After completing a sale, the program generates a printable receipt.
 - ⚡ **No Database**: The program does not rely on any external databases or internet connection.
 
 ## 🛠️ Technologies Used | เทคโนโลยีที่ใช้
+- 🟩 **Java** (Language)
 - ⚛️ **Java Swing** (UI)
-- 🟩 **Java** (Back-end)
-- 🧾 **Receipt Generation** (Functionality)
 - ⚡ **No Database** (Local, in-memory storage)
 
 ## 🚀 How to Run the Project | วิธีการรันโปรเจค
